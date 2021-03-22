@@ -1,2 +1,2 @@
 # Cooking-Song
-A song about cooking
+A song about cooking in the key of G major.
